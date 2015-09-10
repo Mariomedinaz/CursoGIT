@@ -1,0 +1,35 @@
+commit d94c2ea6358b585db039c27707d47c8d26a1cf7c
+Author: Mario Medina <mariogpe.mz@gmail.com>
+Date:   Wed Sep 9 16:46:09 2015 -0600
+
+    Pie de pagina
+
+commit 04a96d7a00cb58427e0d3d0e61e7b274b9502020
+Author: Mario Medina <mariogpe.mz@gmail.com>
+Date:   Wed Sep 9 16:35:58 2015 -0600
+
+    Formulario agregado
+
+commit d13f14611910999dbfb4a1157717fe44d5c10556
+Author: Mario Medina <mariogpe.mz@gmail.com>
+Date:   Wed Sep 9 16:29:23 2015 -0600
+
+    Logo agregado
+
+commit c4e7a1b5dee70fba753cfcbf1d36d33cfddee12e
+Author: Mario Medina <mariogpe.mz@gmail.com>
+Date:   Tue Sep 8 16:56:58 2015 -0600
+
+    Titulo agregado en negritas itc
+
+commit b12f42aad1850f63e6b607be72eeb110f2f5ba17
+Author: Mario Medina <mariogpe.mz@gmail.com>
+Date:   Tue Sep 8 16:54:10 2015 -0600
+
+    Titulo agregado itc
+
+commit ecf4c68f5b21136b71b42535444709dd289bbb13
+Author: Mario Medina <mariogpe.mz@gmail.com>
+Date:   Tue Sep 8 16:41:16 2015 -0600
+
+    Proyecto en blanco
